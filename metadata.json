@@ -1,0 +1,6 @@
+{
+  "name": "فروشگاه اینترنتی مدرن آرا | Ara Store",
+  "description": "فروشگاه اینترنتی پیشرفته و چندمنظوره با سیستم فیلتر پویا، تنوع کاتالوگ، تسویه‌حساب هوشمند و پنل مدیریت جامع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
